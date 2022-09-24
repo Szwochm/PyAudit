@@ -3,8 +3,9 @@ I am currently on a journey to learn about Incidence Response. These Python scri
 
 **dupMacs.py**
 
-**Progress:** "Operational" |  **Testing:** Not Started, required 
+Notes: Needs to be  tested. Only programmed to catch duplicate ips sent via TCP. I should expand it to ARP, UDP at a minimum in the future
 
 **Usage:** python dupMacs.py --pcap example-01.pcap 
+
 
 
