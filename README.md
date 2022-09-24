@@ -3,9 +3,7 @@ I am currently on a journey to learn about Incidence Response. These Python scri
 
 **dupMacs.py**
 
-Progress: *"Operational"*
-
-Testing: Not Started, required 
+Progress: *"Operational"*  Testing: Not Started, required 
 
 **Usage: python dupMacs.py --pcap example-01.pcap **
 
