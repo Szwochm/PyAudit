@@ -9,7 +9,7 @@ def main():
     # Initialize WMI objects and query.
     wmi_o = wmi.WMI('.')
     wql = ("SELECT * FROM Win32_NTLogEvent WHERE Logfile="
-           "'Application' AND EventCode='4624' AND EventType='4'")
+           "'Security' AND EventCode='4624' AND EventType='10'")
 
     # Query WMI object.
     wql_r = wmi_o.query(wql)
