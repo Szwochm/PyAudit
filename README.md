@@ -9,4 +9,12 @@ Takes a Pcap file and reads the raw data. The raw data is used to create an obje
 **Usage:** python dupMacs.py --pcap example-01.pcap 
 
 
+**findWindowsRDP.py**
+Queries WMI to return all Windows events that fit the search parameters
+
+**Notes:** Most of the code is from https://stackoverflow.com/questions/11219213/read-specific-windows-event-log-event -- I plan on adding more functionality to it in the future such as searching by timeframe, generating a visible alert,
+
+**Usage:** python findWindowsRDP.py
+
+
 
