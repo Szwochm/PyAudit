@@ -1,4 +1,4 @@
-# PythonIDR-Scripts
+# PyAudit
 These Python scripts are created with the intent to help an Analyst quickly gather information from logs, pcaps, events, etc 
 
 **dupMacs.py**
