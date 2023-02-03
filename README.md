@@ -17,7 +17,7 @@ Plans:
 
 **Usage:** python pyAudit.py
 
-
+# dupMacs
 **dupMacs.py**
 Takes a Pcap file and reads the raw data. The raw data is used to create an object that holds packet information at the various OSI levels. If a mac address is mapped to more than one ip address, the program will return the mac, as well as each ip address mapped to it.
 
@@ -25,7 +25,7 @@ Takes a Pcap file and reads the raw data. The raw data is used to create an obje
 
 **Usage:** python dupMacs.py --pcap example-01.pcap 
 
-
+#findWindowsRDP
 **findWindowsRDP.py**
 Queries WMI to return all Windows events that fit the search parameters
 
