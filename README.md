@@ -25,7 +25,7 @@ Takes a Pcap file and reads the raw data. The raw data is used to create an obje
 
 **Usage:** python dupMacs.py --pcap example-01.pcap 
 
-#findWindowsRDP
+# findWindowsRDP
 **findWindowsRDP.py**
 Queries WMI to return all Windows events that fit the search parameters
 
